@@ -173,7 +173,7 @@ export default function Hero() {
                 View Projects
               </a>
               <a
-                href="/CV_Bayu_Rahmat_Nurhidayanto.pdf"
+                href="/CV_Dava_Adi_Prasetya.pdf"
                 download
                 className="inline-flex items-center gap-2 px-7 py-3 rounded-xl text-sm font-semibold text-accent border transition-all duration-200 hover:-translate-y-0.5 hover:bg-accent/10"
                 style={{ borderColor: "rgba(56,189,248,0.3)" }}
